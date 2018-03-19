@@ -1,0 +1,9 @@
+{
+  "products": [
+    { "Id": 1, "Name": "Nivea Cream", "Details": "Cream", "Price" : "200" },
+    { "Id": 2, "Name": "Figaro Oil", "Details": "Oil" , "Price" : "300"},
+    { "Id": 3, "Name": "Fogg", "Details": "Deo" , "Price" : "200"},
+    { "Id": 4, "Name": "Press", "Details": "Press" , "Price" : "800"},
+    { "Id": 5, "Name": "Watch", "Details": "Watch" , "Price" : "500"}
+  ]
+}
